@@ -1,0 +1,15 @@
+/home/nicolas/Documents/Aula_C#/Array_Bidemensional_Exercio/obj/Debug/net9.0/Array_Bidemensional_Exercio.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documents/Aula_C#/Array_Bidemensional_Exercio/obj/Debug/net9.0/Array_Bidemensional_Exercio.AssemblyInfoInputs.cache
+/home/nicolas/Documents/Aula_C#/Array_Bidemensional_Exercio/obj/Debug/net9.0/Array_Bidemensional_Exercio.AssemblyInfo.cs
+/home/nicolas/Documents/Aula_C#/Array_Bidemensional_Exercio/obj/Debug/net9.0/Array_Bidemensional_Exercio.csproj.CoreCompileInputs.cache
+/home/nicolas/Documents/Aula_C#/Array_Bidemensional_Exercio/obj/Debug/net9.0/Array_Bidemensional_Exercio.sourcelink.json
+/home/nicolas/Documents/Aula_C#/Array_Bidemensional_Exercio/bin/Debug/net9.0/Array_Bidemensional_Exercio
+/home/nicolas/Documents/Aula_C#/Array_Bidemensional_Exercio/bin/Debug/net9.0/Array_Bidemensional_Exercio.deps.json
+/home/nicolas/Documents/Aula_C#/Array_Bidemensional_Exercio/bin/Debug/net9.0/Array_Bidemensional_Exercio.runtimeconfig.json
+/home/nicolas/Documents/Aula_C#/Array_Bidemensional_Exercio/bin/Debug/net9.0/Array_Bidemensional_Exercio.dll
+/home/nicolas/Documents/Aula_C#/Array_Bidemensional_Exercio/bin/Debug/net9.0/Array_Bidemensional_Exercio.pdb
+/home/nicolas/Documents/Aula_C#/Array_Bidemensional_Exercio/obj/Debug/net9.0/Array_Bidemensional_Exercio.dll
+/home/nicolas/Documents/Aula_C#/Array_Bidemensional_Exercio/obj/Debug/net9.0/refint/Array_Bidemensional_Exercio.dll
+/home/nicolas/Documents/Aula_C#/Array_Bidemensional_Exercio/obj/Debug/net9.0/Array_Bidemensional_Exercio.pdb
+/home/nicolas/Documents/Aula_C#/Array_Bidemensional_Exercio/obj/Debug/net9.0/Array_Bidemensional_Exercio.genruntimeconfig.cache
+/home/nicolas/Documents/Aula_C#/Array_Bidemensional_Exercio/obj/Debug/net9.0/ref/Array_Bidemensional_Exercio.dll
