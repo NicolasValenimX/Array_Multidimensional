@@ -12,3 +12,4 @@
 /home/nicolas/Documents/Aula_C#/Array_Multidimensional/obj/Debug/net9.0/Array_Multidimensional.pdb
 /home/nicolas/Documents/Aula_C#/Array_Multidimensional/obj/Debug/net9.0/Array_Multidimensional.genruntimeconfig.cache
 /home/nicolas/Documents/Aula_C#/Array_Multidimensional/obj/Debug/net9.0/ref/Array_Multidimensional.dll
+/home/nicolas/Documents/Aula_C#/Array_Multidimensional/obj/Debug/net9.0/Array_Multidimensional.sourcelink.json

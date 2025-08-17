@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Array multidimensional");
+﻿Console.WriteLine("Array a");
 
 
 int[,] a;
@@ -14,6 +14,15 @@ Console.WriteLine(a[0, 1]);
 Console.WriteLine(a[1, 0]);
 Console.WriteLine(a[1, 1]);
 
+Console.WriteLine("Array b");
+
+// int[,] b = new int[2, 2] { { 20, 30 }, { 40, 50 } };
+int[,] b = { { 20, 30 }, { 40, 50 } }; //delcaracao simpllificada
+
+Console.WriteLine(b[0, 0]);
+Console.WriteLine(b[0, 1]);
+Console.WriteLine(b[1, 0]);
+Console.WriteLine(b[1, 1]);
 
 
 Console.ReadKey();
