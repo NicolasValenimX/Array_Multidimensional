@@ -1,0 +1,14 @@
+/home/nicolas/Documents/Aula_C#/Array_Multidimensional/bin/Debug/net9.0/Array_Multidimensional
+/home/nicolas/Documents/Aula_C#/Array_Multidimensional/bin/Debug/net9.0/Array_Multidimensional.deps.json
+/home/nicolas/Documents/Aula_C#/Array_Multidimensional/bin/Debug/net9.0/Array_Multidimensional.runtimeconfig.json
+/home/nicolas/Documents/Aula_C#/Array_Multidimensional/bin/Debug/net9.0/Array_Multidimensional.dll
+/home/nicolas/Documents/Aula_C#/Array_Multidimensional/bin/Debug/net9.0/Array_Multidimensional.pdb
+/home/nicolas/Documents/Aula_C#/Array_Multidimensional/obj/Debug/net9.0/Array_Multidimensional.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documents/Aula_C#/Array_Multidimensional/obj/Debug/net9.0/Array_Multidimensional.AssemblyInfoInputs.cache
+/home/nicolas/Documents/Aula_C#/Array_Multidimensional/obj/Debug/net9.0/Array_Multidimensional.AssemblyInfo.cs
+/home/nicolas/Documents/Aula_C#/Array_Multidimensional/obj/Debug/net9.0/Array_Multidimensional.csproj.CoreCompileInputs.cache
+/home/nicolas/Documents/Aula_C#/Array_Multidimensional/obj/Debug/net9.0/Array_Multidimensional.dll
+/home/nicolas/Documents/Aula_C#/Array_Multidimensional/obj/Debug/net9.0/refint/Array_Multidimensional.dll
+/home/nicolas/Documents/Aula_C#/Array_Multidimensional/obj/Debug/net9.0/Array_Multidimensional.pdb
+/home/nicolas/Documents/Aula_C#/Array_Multidimensional/obj/Debug/net9.0/Array_Multidimensional.genruntimeconfig.cache
+/home/nicolas/Documents/Aula_C#/Array_Multidimensional/obj/Debug/net9.0/ref/Array_Multidimensional.dll
