@@ -1,0 +1,15 @@
+/home/nicolas/Documents/Aula_C#/Array_Laço_For/bin/Debug/net9.0/Array_Laço_For
+/home/nicolas/Documents/Aula_C#/Array_Laço_For/bin/Debug/net9.0/Array_Laço_For.deps.json
+/home/nicolas/Documents/Aula_C#/Array_Laço_For/bin/Debug/net9.0/Array_Laço_For.runtimeconfig.json
+/home/nicolas/Documents/Aula_C#/Array_Laço_For/bin/Debug/net9.0/Array_Laço_For.dll
+/home/nicolas/Documents/Aula_C#/Array_Laço_For/bin/Debug/net9.0/Array_Laço_For.pdb
+/home/nicolas/Documents/Aula_C#/Array_Laço_For/obj/Debug/net9.0/Array_Laço_For.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documents/Aula_C#/Array_Laço_For/obj/Debug/net9.0/Array_Laço_For.AssemblyInfoInputs.cache
+/home/nicolas/Documents/Aula_C#/Array_Laço_For/obj/Debug/net9.0/Array_Laço_For.AssemblyInfo.cs
+/home/nicolas/Documents/Aula_C#/Array_Laço_For/obj/Debug/net9.0/Array_Laço_For.csproj.CoreCompileInputs.cache
+/home/nicolas/Documents/Aula_C#/Array_Laço_For/obj/Debug/net9.0/Array_Laço_For.sourcelink.json
+/home/nicolas/Documents/Aula_C#/Array_Laço_For/obj/Debug/net9.0/Array_Laço_For.dll
+/home/nicolas/Documents/Aula_C#/Array_Laço_For/obj/Debug/net9.0/refint/Array_Laço_For.dll
+/home/nicolas/Documents/Aula_C#/Array_Laço_For/obj/Debug/net9.0/Array_Laço_For.pdb
+/home/nicolas/Documents/Aula_C#/Array_Laço_For/obj/Debug/net9.0/Array_Laço_For.genruntimeconfig.cache
+/home/nicolas/Documents/Aula_C#/Array_Laço_For/obj/Debug/net9.0/ref/Array_Laço_For.dll

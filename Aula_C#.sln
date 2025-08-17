@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Multidimensional", "Array_Multidimensional\Array_Multidimensional.csproj", "{874094DC-8C05-43EE-ABEF-DA71CA6E6E69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Laço_For", "Array_Laço_For\Array_Laço_For.csproj", "{73A63B55-ED9E-4560-B272-DF03E70C8D59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{874094DC-8C05-43EE-ABEF-DA71CA6E6E69}.Release|x64.Build.0 = Release|Any CPU
 		{874094DC-8C05-43EE-ABEF-DA71CA6E6E69}.Release|x86.ActiveCfg = Release|Any CPU
 		{874094DC-8C05-43EE-ABEF-DA71CA6E6E69}.Release|x86.Build.0 = Release|Any CPU
+		{73A63B55-ED9E-4560-B272-DF03E70C8D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A63B55-ED9E-4560-B272-DF03E70C8D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A63B55-ED9E-4560-B272-DF03E70C8D59}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{73A63B55-ED9E-4560-B272-DF03E70C8D59}.Debug|x64.Build.0 = Debug|Any CPU
+		{73A63B55-ED9E-4560-B272-DF03E70C8D59}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{73A63B55-ED9E-4560-B272-DF03E70C8D59}.Debug|x86.Build.0 = Debug|Any CPU
+		{73A63B55-ED9E-4560-B272-DF03E70C8D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A63B55-ED9E-4560-B272-DF03E70C8D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A63B55-ED9E-4560-B272-DF03E70C8D59}.Release|x64.ActiveCfg = Release|Any CPU
+		{73A63B55-ED9E-4560-B272-DF03E70C8D59}.Release|x64.Build.0 = Release|Any CPU
+		{73A63B55-ED9E-4560-B272-DF03E70C8D59}.Release|x86.ActiveCfg = Release|Any CPU
+		{73A63B55-ED9E-4560-B272-DF03E70C8D59}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
