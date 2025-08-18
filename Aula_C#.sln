@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Laço_For", "Array_La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Bidemensional_Exercio", "Array_Bidemensional_Exercio\Array_Bidemensional_Exercio.csproj", "{800399A8-D2AD-4D21-AAA8-28E8C6A5AC81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "ArrayList\ArrayList.csproj", "{BBCC65B5-DB6B-4FC6-AB5D-FE33F6481DAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{800399A8-D2AD-4D21-AAA8-28E8C6A5AC81}.Release|x64.Build.0 = Release|Any CPU
 		{800399A8-D2AD-4D21-AAA8-28E8C6A5AC81}.Release|x86.ActiveCfg = Release|Any CPU
 		{800399A8-D2AD-4D21-AAA8-28E8C6A5AC81}.Release|x86.Build.0 = Release|Any CPU
+		{BBCC65B5-DB6B-4FC6-AB5D-FE33F6481DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCC65B5-DB6B-4FC6-AB5D-FE33F6481DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCC65B5-DB6B-4FC6-AB5D-FE33F6481DAD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BBCC65B5-DB6B-4FC6-AB5D-FE33F6481DAD}.Debug|x64.Build.0 = Debug|Any CPU
+		{BBCC65B5-DB6B-4FC6-AB5D-FE33F6481DAD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BBCC65B5-DB6B-4FC6-AB5D-FE33F6481DAD}.Debug|x86.Build.0 = Debug|Any CPU
+		{BBCC65B5-DB6B-4FC6-AB5D-FE33F6481DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCC65B5-DB6B-4FC6-AB5D-FE33F6481DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCC65B5-DB6B-4FC6-AB5D-FE33F6481DAD}.Release|x64.ActiveCfg = Release|Any CPU
+		{BBCC65B5-DB6B-4FC6-AB5D-FE33F6481DAD}.Release|x64.Build.0 = Release|Any CPU
+		{BBCC65B5-DB6B-4FC6-AB5D-FE33F6481DAD}.Release|x86.ActiveCfg = Release|Any CPU
+		{BBCC65B5-DB6B-4FC6-AB5D-FE33F6481DAD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

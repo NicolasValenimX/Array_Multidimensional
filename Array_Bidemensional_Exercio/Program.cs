@@ -27,6 +27,7 @@ for (int i = 0; i < alunos.GetLength(0); i++)
 }
 
 Console.WriteLine("\nConteudo do Array alunos: ");
+
 for (int i = 0; i < alunos.GetLength(0); i++)
 {
     for (int j = 0; j < alunos.GetLength(1); j++)
