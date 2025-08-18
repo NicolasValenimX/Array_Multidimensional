@@ -1,0 +1,15 @@
+/home/nicolas/Documents/Aula_C#/ArrayList_Add/bin/Debug/net9.0/ArrayList_Add
+/home/nicolas/Documents/Aula_C#/ArrayList_Add/bin/Debug/net9.0/ArrayList_Add.deps.json
+/home/nicolas/Documents/Aula_C#/ArrayList_Add/bin/Debug/net9.0/ArrayList_Add.runtimeconfig.json
+/home/nicolas/Documents/Aula_C#/ArrayList_Add/bin/Debug/net9.0/ArrayList_Add.dll
+/home/nicolas/Documents/Aula_C#/ArrayList_Add/bin/Debug/net9.0/ArrayList_Add.pdb
+/home/nicolas/Documents/Aula_C#/ArrayList_Add/obj/Debug/net9.0/ArrayList_Add.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documents/Aula_C#/ArrayList_Add/obj/Debug/net9.0/ArrayList_Add.AssemblyInfoInputs.cache
+/home/nicolas/Documents/Aula_C#/ArrayList_Add/obj/Debug/net9.0/ArrayList_Add.AssemblyInfo.cs
+/home/nicolas/Documents/Aula_C#/ArrayList_Add/obj/Debug/net9.0/ArrayList_Add.csproj.CoreCompileInputs.cache
+/home/nicolas/Documents/Aula_C#/ArrayList_Add/obj/Debug/net9.0/ArrayList_Add.sourcelink.json
+/home/nicolas/Documents/Aula_C#/ArrayList_Add/obj/Debug/net9.0/ArrayList_Add.dll
+/home/nicolas/Documents/Aula_C#/ArrayList_Add/obj/Debug/net9.0/refint/ArrayList_Add.dll
+/home/nicolas/Documents/Aula_C#/ArrayList_Add/obj/Debug/net9.0/ArrayList_Add.pdb
+/home/nicolas/Documents/Aula_C#/ArrayList_Add/obj/Debug/net9.0/ArrayList_Add.genruntimeconfig.cache
+/home/nicolas/Documents/Aula_C#/ArrayList_Add/obj/Debug/net9.0/ref/ArrayList_Add.dll

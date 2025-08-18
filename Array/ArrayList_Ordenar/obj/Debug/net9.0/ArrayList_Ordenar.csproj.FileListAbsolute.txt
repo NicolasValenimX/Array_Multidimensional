@@ -1,0 +1,15 @@
+/home/nicolas/Documents/Aula_C#/ArrayList_Ordenar/bin/Debug/net9.0/ArrayList_Ordenar
+/home/nicolas/Documents/Aula_C#/ArrayList_Ordenar/bin/Debug/net9.0/ArrayList_Ordenar.deps.json
+/home/nicolas/Documents/Aula_C#/ArrayList_Ordenar/bin/Debug/net9.0/ArrayList_Ordenar.runtimeconfig.json
+/home/nicolas/Documents/Aula_C#/ArrayList_Ordenar/bin/Debug/net9.0/ArrayList_Ordenar.dll
+/home/nicolas/Documents/Aula_C#/ArrayList_Ordenar/bin/Debug/net9.0/ArrayList_Ordenar.pdb
+/home/nicolas/Documents/Aula_C#/ArrayList_Ordenar/obj/Debug/net9.0/ArrayList_Ordenar.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documents/Aula_C#/ArrayList_Ordenar/obj/Debug/net9.0/ArrayList_Ordenar.AssemblyInfoInputs.cache
+/home/nicolas/Documents/Aula_C#/ArrayList_Ordenar/obj/Debug/net9.0/ArrayList_Ordenar.AssemblyInfo.cs
+/home/nicolas/Documents/Aula_C#/ArrayList_Ordenar/obj/Debug/net9.0/ArrayList_Ordenar.csproj.CoreCompileInputs.cache
+/home/nicolas/Documents/Aula_C#/ArrayList_Ordenar/obj/Debug/net9.0/ArrayList_Ordenar.sourcelink.json
+/home/nicolas/Documents/Aula_C#/ArrayList_Ordenar/obj/Debug/net9.0/ArrayList_Ordenar.dll
+/home/nicolas/Documents/Aula_C#/ArrayList_Ordenar/obj/Debug/net9.0/refint/ArrayList_Ordenar.dll
+/home/nicolas/Documents/Aula_C#/ArrayList_Ordenar/obj/Debug/net9.0/ArrayList_Ordenar.pdb
+/home/nicolas/Documents/Aula_C#/ArrayList_Ordenar/obj/Debug/net9.0/ArrayList_Ordenar.genruntimeconfig.cache
+/home/nicolas/Documents/Aula_C#/ArrayList_Ordenar/obj/Debug/net9.0/ref/ArrayList_Ordenar.dll

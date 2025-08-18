@@ -1,0 +1,15 @@
+/home/nicolas/Documents/Aula_C#/Array_List_Remover_Elementos/obj/Debug/net9.0/Array_List_Remover_Elementos.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documents/Aula_C#/Array_List_Remover_Elementos/obj/Debug/net9.0/Array_List_Remover_Elementos.AssemblyInfoInputs.cache
+/home/nicolas/Documents/Aula_C#/Array_List_Remover_Elementos/obj/Debug/net9.0/Array_List_Remover_Elementos.AssemblyInfo.cs
+/home/nicolas/Documents/Aula_C#/Array_List_Remover_Elementos/obj/Debug/net9.0/Array_List_Remover_Elementos.csproj.CoreCompileInputs.cache
+/home/nicolas/Documents/Aula_C#/Array_List_Remover_Elementos/obj/Debug/net9.0/Array_List_Remover_Elementos.sourcelink.json
+/home/nicolas/Documents/Aula_C#/Array_List_Remover_Elementos/bin/Debug/net9.0/Array_List_Remover_Elementos
+/home/nicolas/Documents/Aula_C#/Array_List_Remover_Elementos/bin/Debug/net9.0/Array_List_Remover_Elementos.deps.json
+/home/nicolas/Documents/Aula_C#/Array_List_Remover_Elementos/bin/Debug/net9.0/Array_List_Remover_Elementos.runtimeconfig.json
+/home/nicolas/Documents/Aula_C#/Array_List_Remover_Elementos/bin/Debug/net9.0/Array_List_Remover_Elementos.dll
+/home/nicolas/Documents/Aula_C#/Array_List_Remover_Elementos/bin/Debug/net9.0/Array_List_Remover_Elementos.pdb
+/home/nicolas/Documents/Aula_C#/Array_List_Remover_Elementos/obj/Debug/net9.0/Array_List_Remover_Elementos.dll
+/home/nicolas/Documents/Aula_C#/Array_List_Remover_Elementos/obj/Debug/net9.0/refint/Array_List_Remover_Elementos.dll
+/home/nicolas/Documents/Aula_C#/Array_List_Remover_Elementos/obj/Debug/net9.0/Array_List_Remover_Elementos.pdb
+/home/nicolas/Documents/Aula_C#/Array_List_Remover_Elementos/obj/Debug/net9.0/Array_List_Remover_Elementos.genruntimeconfig.cache
+/home/nicolas/Documents/Aula_C#/Array_List_Remover_Elementos/obj/Debug/net9.0/ref/Array_List_Remover_Elementos.dll
